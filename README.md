@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digeesh</h1>
 <h3 align="center">A passionate ML and data science analyst from India</h3>
 
-- 🔭 I’m currently working on [Credit card risk analysis](https://github.com/Digeesh-7/Digeesh-7/blob/0adae1ed2aebfbd638d463fb8da0b66b7b997d1d/Credit%20card.ipynb)
+- 🔭 I’m currently working on [Credit card churn analysis](https://github.com/Digeesh-7/Digeesh-7/blob/0adae1ed2aebfbd638d463fb8da0b66b7b997d1d/Credit%20card.ipynb)
 
 - 🌱 I’m currently learning **Machine learning and Data science**
 
